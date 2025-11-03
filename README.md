@@ -1,2 +1,2 @@
-# test-commit
-# My first commit!
+# My first GitHub commit!
+Hello Base Builders & Founders 👋
